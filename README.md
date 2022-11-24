@@ -1,4 +1,4 @@
-<img src="/uploads/dcdf641946c9583dde15fbf669403e7d/logo.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/101650543/203712970-ad5e5a57-4a0b-4754-a8fb-9d10de58ecaa.png" width="30%"></img>
 # 🍴 모랭(모두의 냉장고)
 사용자가 보유한 재료를 기반으로 레시피 검색 기능을 제공하고, 조리해 먹은 레시피 기록과 그에 따른 절약 현황 및 가계부 기능을 제공하는 모바일 웹 서비스
 
@@ -37,88 +37,78 @@
 ### 재료 기반 레시피 검색
 재료 키워드를 선택하고, 선택된 재료를 사용하는 레시피를 검색
 
-![재료로검색](/uploads/7c94eb7377bc0ba72db1a8cd641330cc/재료로검색.gif)
+![재료로검색](https://user-images.githubusercontent.com/101650543/203713447-02c1a669-f4de-46f4-97b0-410cffe0540a.gif)
 
 ### 레시피 이름으로 검색
 자동완성 기능
 
-![레시피이름으로검색](/uploads/e2897bd384636d3c3df968888b74ae8d/레시피이름으로검색.gif)
+![레시피이름으로검색](https://user-images.githubusercontent.com/101650543/203713603-e756f157-a395-41b6-b465-7f90b2eebe7a.gif)
 
 ## 2. 조리 비용 VS 외식비 가격 비교
 
 상세 페이지의 재료 태그 선택 시, 활성화 된 재료에 따라 조리 비용이 변화
 
-![재료에따라가격변화](/uploads/229d2d8f35be36f16fc7ff24c3c30652/재료에따라가격변화.gif)
+![재료에따라가격변화](https://user-images.githubusercontent.com/101650543/203713649-5215564c-d7a5-4861-b4f1-d9926ba3ee52.gif)
 
 필요한 식재료 분량에 따라 음식을 조리하는 데 필요한 비용을 계산하고, 똑같은 레시피를 밖에서 사 먹었을 때와 가격을 비교
 
-![조리비외식비비교](/uploads/18074ffa1686fa08c2f5bc2a757d13b2/조리비외식비비교.gif)
+![조리비외식비비교](https://user-images.githubusercontent.com/101650543/203713655-d1dbd165-f469-4a02-b84e-8aa2c30c0e2a.gif)
 
 ## 3. 모랭일기
 
 레시피 상세 페이지에서 조리해 먹은 레시피를 저장
 
-![모랭일기등록](/uploads/b0ae1ee6ac5e2da3ec6421a82d267cb0/모랭일기등록.gif)
+![모랭일기등록](https://user-images.githubusercontent.com/101650543/203713632-49de047f-e042-4aa8-adb9-eb87a7f1e7a5.gif)
 
 주차별/월별로 절약한 금액 내역을 시각화하여 제공
 
 모랭일기 페이지에서 그동안 등록한 레시피 정보를 캘린더에서 확인 가능
 
-![모랭일기그래프레시피](/uploads/4cd10443228c6c05ade03df6a5b3b7ae/모랭일기그래프레시피.gif)
+![모랭일기그래프레시피](https://user-images.githubusercontent.com/101650543/203713626-a8c39e3f-0fba-4caa-9202-9eae109bb002.gif)
 
 # 🍴 그 외 기능
 - 소셜 로그인(KaKao)
 - 레시피 찜/최근 본 레시피 조회 기능
 
 # 📃 기능 명세서
-![기능명세서1](/uploads/43a7f441ca5a51616442be1b354c711d/기능명세서1.png)
-![기능명세서2](/uploads/8adde40cb6e2ca9225dcb418fcad1611/기능명세서2.png)
-![기능명세서3](/uploads/5a02783cbc5b6cc328f998843eee469c/기능명세서3.png)
+![기능명세서1](https://user-images.githubusercontent.com/101650543/203715261-1bdfc898-2a29-45a3-802c-f88608fb9dea.png)
+![기능명세서2](https://user-images.githubusercontent.com/101650543/203715270-1d5a508c-86b1-4d93-b2d4-d60a9b593e4d.png)
+![기능명세서3](https://user-images.githubusercontent.com/101650543/203715278-1e5c1305-b4ae-49d5-9e7b-4e2eada39e98.png)
 
 # 📃 ERD
-![ERDiagram](/uploads/15bb510ed197f22f77cac5a9c3af0552/ERDiagram.png)
+![ERDiagram](https://user-images.githubusercontent.com/101650543/203715743-39adc22f-4cb5-48d3-9928-a3be7976260d.png)
 
 # 📃 와이어프레임
-![와이어프레임1](/uploads/7d141b7e39ae84e6b9c25777ff719756/와이어프레임1.png)
-![와이어프레임2](/uploads/910a8577f47ab5717968b22e962515f9/와이어프레임2.png)
+![와이어프레임1](https://user-images.githubusercontent.com/101650543/203715767-770c0d69-6067-4443-ab6e-1619c45cff2e.png)
+![와이어프레임2](https://user-images.githubusercontent.com/101650543/203715769-404a20d2-7401-4265-ad71-fe03f6905f05.png)
 
 # 📃 컴포넌트 구조도
-![컴포넌트구조도](/uploads/43c53d988e25a01348a5107e19875d96/컴포넌트구조도.png)
+![컴포넌트구조도](https://user-images.githubusercontent.com/101650543/203715771-c803db8d-8ace-4d70-beb4-957fd661273d.png)
 
 # 💻 개발 환경 및 기술 스택
+<div>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white">
+</div>
 
-<br>
-
+<div>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-
 <img src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white">
-
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-<br>
-
+<div>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+</div>
 
 ### 🖱️ 백엔드
 - IDE : IntelliJ 2022.2
@@ -152,4 +142,4 @@
 - Jira
 
 # 📃 아키텍처 구조
-![아키텍쳐구조도](/uploads/d927f1c3255b6ef02aca28bd5eb4de95/아키텍쳐구조도.png)
+![아키텍쳐구조도](https://user-images.githubusercontent.com/101650543/203715794-32572a3a-e7f7-494d-bda9-bafeb3628a12.png)
